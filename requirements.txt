@@ -1,1 +1,4 @@
-pip freeze > requirements.txt
+fastapi==0.110.0
+uvicorn==0.29.0
+python-dotenv==1.0.1
+google-generativeai==0.4.1
